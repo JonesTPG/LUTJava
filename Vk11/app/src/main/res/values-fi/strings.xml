@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vk11</string>
+
+    <color name="highlightedTextViewColor">#000088</color>
+    <color name="normalTextViewColor">#000044</color>
+
+    <string name="song">Oi maamme, Suomi, synnyinmaa, soi, sana kultainen!
+Ei laaksoa, ei kukkulaa, ei vettä rantaa rakkaampaa, kuin kotimaa tää pohjoinen, maa kallis isien!
+
+Sun kukoistukses kuorestaan kerrankin puhkeaa.
+Viel lempemme saa nousemaan sun toivos, riemus loistossaan, ja kerran, laulus synnyinmaa korkeemman kaiun saa.</string>
+
+</resources>

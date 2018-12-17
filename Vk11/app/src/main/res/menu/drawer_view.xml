@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/val1"
+            android:title="fonttikoko" />
+        <item
+            android:id="@+id/val2"
+
+            android:title="riviväli" />
+        <item
+            android:id="@+id/val3"
+
+            android:title="caps lock" />
+        <item
+            android:id="@+id/val4"
+
+            android:title="tummennus" />
+
+        <item
+            android:id="@+id/val5"
+
+            android:title="salli muokkaus" />
+
+
+
+        <item
+            android:id="@+id/action_dropdown1"
+            android:title="suomi" />
+        <item
+            android:id="@+id/action_dropdown2"
+            android:title="ruotsi" />
+        <item
+            android:id="@+id/action_dropdown3"
+            android:title="englanti" />
+
+
+
+</group>
+</menu>
